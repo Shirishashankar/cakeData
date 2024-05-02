@@ -1,0 +1,92 @@
+{
+    "Products": [
+      {
+        "id": 1,
+        "name": "Chocolate Truffle Cake",
+        "image": "https://www.fnp.com/images/pr/s/v20221214202641/chocolate-truffle-cream-cake-half-kg_3.jpg",
+        "price": 150,
+        "rating": "4.8",
+        "qnty": 0
+      },
+      {
+        "id": 2,
+        "name": "Eggless Pineapple Cake",
+        "image": "https://www.fnp.com/images/pr/s/v20221214202755/happy-emoji-pineapple-cake-eggless-half-kg_4.jpg",
+        "price": 190,
+        "rating": "4.9",
+        "qnty": 0
+      },
+      {
+        "id": 3,
+        "name": "Whipped Black Forest Cream Cake",
+        "image": "https://www.fnp.com/images/pr/s/v20230928181421/whipped-black-forest-cream-cake-half-kg_3.jpg",
+        "price": 190,
+        "rating": "4.9",
+        "qnty": 0
+      },
+      {
+        "id": 4,
+        "name": "Butterscotch Cake",
+        "image": "https://www.fnp.com/images/pr/s/v20230928181421/whipped-black-forest-cream-cake-half-kg_3.jpg",
+        "price": 180,
+        "rating": "4.7",
+        "qnty": 0
+      },
+      {
+        "id": 5,
+        "name": "Cream Drop Caramel Cake",
+        "image": "https://www.fnp.com/images/pr/s/v20221118185205/cream-drop-caramel-cake-half-kg_3.jpg",
+        "price": 220,
+        "rating": "5.0",
+        "qnty": 0
+      },
+      {
+        "id": 6,
+        "name": "Truffle Walnut Cake",
+        "image": "https://www.fnp.com/images/pr/s/v20221214202909/truffle-walnut-cake-half-kg_3.jpg",
+        "price": 210,
+        "rating": "4.9",
+        "qnty": 0
+      },
+      {
+        "id": 7,
+        "name": "Walnut Dry Cake",
+        "image": "https://www.fnp.com/images/pr/s/v20191001182938/walnut-dry-cake-500-gms_5.jpg",
+        "price": 170,
+        "rating": "4.6",
+        "qnty": 0
+      },
+      {
+        "id": 8,
+        "name": "Carrot Walnut Cake",
+        "image": "https://www.fnp.com/images/pr/s/v20190507131741/carrot-walnut-cake-half-kg_5.jpg",
+        "price": 230,
+        "rating": "4.7",
+        "qnty": 0
+      },
+      {
+        "id": 9,
+        "name": "Vanilla Flavoured Pista Rasmalai Cake",
+        "image": "https://www.fnp.com/images/pr/s/v20180809165521/vanilla-flavored-pista-rasmalai-cake-half-kg_3.jpg",
+        "price": 250,
+        "rating": "5.0",
+        "qnty": 0
+      },
+      {
+        "id": 10,
+        "name": "Butterscotch With Rasmalai Cake",
+        "image": "https://www.fnp.com/images/pr/s/v20221130174855/butterscotch-cake-with-rasmalai-1kg_4.jpg",
+        "price": 270,
+        "rating": "4.9",
+        "qnty": 0
+      },
+      {
+        "id": 11,
+        "name": "WKit Kat Crunch Cream Cake",
+        "image": "https://www.fnp.com/images/pr/s/v20230928181340/kit-kat-crunch-cream-cake-half-kg_3.jpg",
+        "price": 180,
+        "rating": "4.8",
+        "qnty": 0
+      }
+    ]
+  }
